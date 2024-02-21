@@ -1,4 +1,4 @@
-- 
+Hi! I'm Avvai Aravind
 
 👀 I'm interested in front-end development. I love creating beautiful, interactive user interfaces that deliver a great user experience.
 
